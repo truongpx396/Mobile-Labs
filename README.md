@@ -35,7 +35,7 @@
 <img src="./assets/cryptowallet/tweeter_2.PNG" width="30%"/> 
 </p>
 
-### OpenIM
+### OpenIM (Instant Messenger App)
 [Link To Project Repo](https://github.com/truongpx396/OpenIM-Flutter)
 
 <p align="center">
