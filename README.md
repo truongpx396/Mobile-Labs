@@ -36,6 +36,7 @@
 </p>
 
 ### OpenIM
+[Link To Project Repo](https://github.com/truongpx396/OpenIM-Flutter)
 
 <p align="center">
 <img src="./assets/openim/IMG_0138.PNG" width="30%"/> <img src="./assets/openim/IMG_0140.PNG" width="30%"/>
