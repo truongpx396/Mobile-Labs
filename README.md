@@ -37,8 +37,8 @@
 
 ---
 <p align="center">
-<img src="./assets/cryptowallet/code/code-1.PNG" width="30%"/> <img src="./assets/cryptowallet/code/code-2.PNG" width="30%"/>
-<img src="./assets/cryptowallet/code/code-3.PNG" width="30%"/> 
+<img src="./assets/cryptowallet/code/code-1.png" width="30%"/> <img src="./assets/cryptowallet/code/code-2.png" width="30%"/>
+<img src="./assets/cryptowallet/code/code-3.png" width="30%"/> 
 </p>
 
 ### OpenIM (Instant Messenger App)
