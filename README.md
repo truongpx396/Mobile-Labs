@@ -35,7 +35,7 @@ An Application to manage crypto wallets, support transfering tokens between wall
 
 ---
 
-Including social feature by connecting to [Mastodon](https://joinmastodon.org/)
+Including social features by connecting to [Mastodon](https://joinmastodon.org/)
 
 <p align="center">
 <img src="./assets/cryptowallet/tweeter_1_2.PNG" width="30%"/> <img src="./assets/cryptowallet/tweeter_1.PNG" width="30%"/>
