@@ -4,7 +4,7 @@
 <h2>
 
 <h4 align="center" style="border-bottom: none">
-    Below are some screenshots of mobile projects that I'd been working on...  <br>
+    Below are screenshots of some mobile projects that I'd been working on...  <br>
 <h4>
 
 ---
