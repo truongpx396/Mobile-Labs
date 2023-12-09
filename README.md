@@ -1,4 +1,7 @@
-# MobileLabs
+
+<h2 align="center" style="border-bottom: none">
+    ✨ 🔮 MobileLabs 🔮 ✨ <br>
+<h2>
 
 #### Below are some screenshots of projects that I'd been working on... 
 
