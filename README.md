@@ -64,13 +64,13 @@
 ### 📰 Techshare
 
 <p align="center">
-<img src="./assets/techshare/techshareapp_1.PNG" width="30%"/> <img src="./assets/techshare/techshareapp_2.PNG" width="30%"/>
-<img src="./assets/techshare/techshareapp_3.PNG" width="30%"/> 
+<img src="./assets/techshare/techshareapp_1.png" width="30%"/> <img src="./assets/techshare/techshareapp_2.png" width="30%"/>
+<img src="./assets/techshare/techshareapp_3.png" width="30%"/> 
 </p>
 
 <p align="center">
-<img src="./assets/techshare/techshareapp_4.PNG" width="30%"/> <img src="./assets/techshare/techshareapp_5.PNG" width="30%"/>
-<img src="./assets/techshare/techshareapp_6.PNG" width="30%"/> 
+<img src="./assets/techshare/techshareapp_4.png" width="30%"/> <img src="./assets/techshare/techshareapp_5.png" width="30%"/>
+<img src="./assets/techshare/techshareapp_6.png" width="30%"/> 
 </p>
 
 <p align="center">
