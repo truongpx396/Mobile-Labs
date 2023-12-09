@@ -1,6 +1,6 @@
 
 <h2 align="center" style="border-bottom: none">
-    ✨ 🔮 MobileLabs 🔮 ✨ <br>
+    ✨ 📱 MobileLabs 📱 ✨ <br>
 <h2>
 
 <h4 align="center" style="border-bottom: none">
