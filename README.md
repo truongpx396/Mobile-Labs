@@ -3,7 +3,10 @@
     ✨ 🔮 MobileLabs 🔮 ✨ <br>
 <h2>
 
-#### Below are some screenshots of projects that I'd been working on... 
+<h5 align="center" style="border-bottom: none">
+    Below are some screenshots of projects that I'd been working on...  <br>
+<h5>
+
 
 ### 💰 Crypto Wallet
 
