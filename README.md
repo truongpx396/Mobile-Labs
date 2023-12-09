@@ -7,6 +7,7 @@
     Below are some screenshots of mobile projects that I'd been working on...  <br>
 <h4>
 
+---
 
 ### 💰 Crypto Wallet
 
