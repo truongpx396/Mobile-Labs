@@ -1,8 +1,10 @@
 # MobileLabs
 
-## Some Screenshots 🚀
+#### Below are some screenshots of projects that I'd been working on... 
 
 ### 💰 Crypto Wallet
+
+An Application to manage crypto wallets, support transfering tokens between wallets, swapping, farming tokens, multichains...
 
 <p align="center">
 <img src="./assets/cryptowallet/wallet_main.PNG" width="30%"/> <img src="./assets/cryptowallet/wallet_send.PNG" width="30%"/>
@@ -32,6 +34,9 @@
 </p>
 
 ---
+
+Including social feature by connecting to [Mastodon](https://joinmastodon.org/)
+
 <p align="center">
 <img src="./assets/cryptowallet/tweeter_1_2.PNG" width="30%"/> <img src="./assets/cryptowallet/tweeter_1.PNG" width="30%"/>
 <img src="./assets/cryptowallet/tweeter_2.PNG" width="30%"/> 
@@ -43,6 +48,15 @@
 </p>
 
 ---
+Source code being organized with `Package by Features` concept.
+
+- State Management using [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
+- Dependency Injections using [Get It](https://pub.dev/packages/get_it)
+- Data Models using [Freezed](https://pub.dev/packages/freezed)
+- Database using [Drift](https://pub.dev/packages/drift)
+- Navigation using [Go Router](https://pub.dev/packages/go_router)
+
+
 <p align="center">
 <img src="./assets/cryptowallet/code/code-1.png" width="30%"/> <img src="./assets/cryptowallet/code/code-2.png" width="30%"/>
 <img src="./assets/cryptowallet/code/code-3.png" width="30%"/> 
@@ -62,6 +76,8 @@
 </p>
 
 ### 📰 Techshare
+
+An application for reading tech blog/posts written by internal employees, including features for Q&A (Questions and Answers) just like Stack Overflow, this app is for the purpuse of sharing knowledge, working experience inside organization. 
 
 <p align="center">
 <img src="./assets/techshare/techshareapp_1.png" width="30%"/> <img src="./assets/techshare/techshareapp_5.png" width="30%"/>
